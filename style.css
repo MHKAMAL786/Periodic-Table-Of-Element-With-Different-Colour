@@ -1,0 +1,58 @@
+
+.table{
+    margin-top: 100px;
+}
+#start{
+    text-align: center;
+}
+.green{
+    background-color: palegreen;
+}
+.red{
+    background-color: rgb(237, 92, 92);
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: skyblue;
+}
+.pink{
+    background-color: palevioletred;
+}
+
+td{
+    max-width: 1000px;
+    /* height: 10px; */
+}
+
+.main{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Abbr{
+    font-size: 11px;
+    padding: 4px 7px;
+    text-align: center;
+}
+
+.Lanthanides{
+    margin-left: 80px;
+    padding-top: 15px;
+}
+
+.ltext{
+    font-size: bold;
+    text-align: center;
+    padding-right: 5px;
+}
+.atext{
+    font-size: bold;
+    text-align: center;
+    padding-right: 4px;
+}
